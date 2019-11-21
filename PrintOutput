@@ -1,0 +1,2 @@
+def PrintOutput(string="string"):
+    return print("OUTPUT", string)
